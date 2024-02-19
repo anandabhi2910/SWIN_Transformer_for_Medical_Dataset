@@ -1,2 +1,2 @@
 # MEDSWIN - SWIN Transformer for Medical Datasets
-#### I will update this repo soon.
+#### I will update this README soon.
